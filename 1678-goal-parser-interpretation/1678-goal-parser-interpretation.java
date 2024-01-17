@@ -1,25 +1,20 @@
 class Solution {
     public String interpret(String command) {
-        Queue<String> queue = new LinkedList<>();
-
         String[] str = command.split("");
-        for (String s : str) {
-            queue.add(s);
-        }
 
-        String s = "";
+        String tmp = "";
         String answer = "";
-        while (!queue.isEmpty()) {
-            s += queue.poll();
-            if (s.equals("G")) {
+        for (String s : str) {
+            tmp += s;
+            if (tmp.equals("G")) {
                 answer += "G";
-                s = "";
-            } else if (s.equals("()")) {
+                tmp = "";
+            } else if (tmp.equals("()")) {
                 answer += "o";
-                s = "";
-            } else if (s.equals("(al)")) {
+                tmp = "";
+            } else if (tmp.equals("(al)")) {
                 answer += "al";
-                s = "";
+                tmp = "";
             }
         }
         return answer;
