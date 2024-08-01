@@ -6,9 +6,7 @@ class Solution {
             char a = details[i].charAt(11);
             char b = details[i].charAt(12);
 
-            int age = Integer.parseInt(String.valueOf(a) + String.valueOf(b));
-
-            if(age > 60){
+            if(Integer.parseInt(String.valueOf(a) + String.valueOf(b)) > 60){
                 cnt++;
             }
         }
