@@ -20,5 +20,10 @@
 |  |
 | ------- |
 | [1454-remove-palindromic-subsequences](https://github.com/ddonydev/leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ddonydev/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ddonydev/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ddonydev/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
