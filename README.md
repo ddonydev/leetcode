@@ -28,8 +28,13 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ddonydev/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/ddonydev/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ddonydev/leetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/ddonydev/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
